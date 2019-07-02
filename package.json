@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.0.0-rc.1",
+    "vuepress-plugin-yuque": "^0.6.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  }
+}
